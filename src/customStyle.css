@@ -1,0 +1,17 @@
+.Mind-Card {
+    background-color: #f1f1e4;
+    padding: 5px;
+}
+.Mind-Card table tr td{
+    text-align: left;
+    padding: 0;
+}
+
+.Mind-Card table tr td strong{
+    width: 200px;
+    font-size: 12px;
+}
+
+.kaban__item{
+padding: 0!important;
+}
